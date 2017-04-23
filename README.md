@@ -1,6 +1,6 @@
 # ProjetSE-MT405333-db501057
 Projet SE - Serveur Web / IRC - Client IRC\
-Python3\
+Python3
 
 Syntaxe a respecter :\
   server.py <irc_port> [<http_port>]\
